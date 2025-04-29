@@ -16,13 +16,7 @@ Designed according to provided evaluation criteria focusing on **clarity**, **st
 
 ## Project Structure
 
-- /project-root 
-    - model.py # Basic Sentence Transformer 
-    - multitask_model.py # MTL Expanded Model 
-    - train.py # Training loop 
-    - requirements.txt # Python requirements 
-    - Dockerfile # Docker container setup 
-    - README.md # Project documentation
+``` /project-root ├── model.py # Task 1 - Basic Sentence Transformer ├── multitask_model.py # Task 2 - MTL Expanded Model ├── train.py # Task 4 - Training Simulation Loop ├── requirements.txt # Python environment setup ├── Dockerfile # Docker container setup ├── README.md # Documentation ├── Written_Explanation.docx # Written answers for Tasks 1-4 ```
 
 ---
 
